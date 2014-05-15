@@ -17,5 +17,5 @@ setup(name='locationExtractor',
       maintainer='Mustafa Atik',
       maintainer_email='muatik@gmail.com',
       packages=['locationExtractor'],
-      package_data={'locationExtractor': ['data']},
+      package_data={'locationExtractor': ['*']},
       platforms='any')

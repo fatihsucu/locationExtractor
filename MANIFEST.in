@@ -1,3 +1,4 @@
 include *.txt
 include *.md
-recursive-include locationExtractor/locationExtractor/Data *
+include *.db
+recursive-include locationExtractor *
